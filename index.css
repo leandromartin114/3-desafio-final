@@ -63,8 +63,8 @@
 	background-color: #dbdbdb;
 }
 .main_foto {
-	width: 245px;
-	height: 310px;
+	width: 250px;
+	height: 250px;
 }
 .main_title {
 	width: 245px;
@@ -81,8 +81,8 @@
 		align-items: unset;
 	}
 	.main_foto {
-		width: 280px;
-		height: 360px;
+		width: 300px;
+		height: 300px;
 		align-self: flex-end;
 	}
 	.main_title {
